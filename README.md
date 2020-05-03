@@ -3,3 +3,5 @@
 <h3>第十周 嘗試應用 Open Data </h3>
 10-csv-20200505.ipynb <br>
 透過 Pandas 開始針對 csv 檔案進行分析，資料以政府資料開放平台所提供的 各鄉鎮市區人口密度 https://data.gov.tw/dataset/8410 進行應用。
+10-datavisualization-20200505.ipynb <br>
+利用 資料以政府資料開放平台所提供的 歷年國內主要觀光遊憩據點遊客人數月別統計 https://data.gov.tw/dataset/8116 進行資料視覺化練習。
