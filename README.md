@@ -5,3 +5,8 @@
 透過 Pandas 開始針對 csv 檔案進行分析，資料以政府資料開放平台所提供的 各鄉鎮市區人口密度 https://data.gov.tw/dataset/8410 進行應用。
 10-datavisualization-20200505.ipynb <br>
 利用 資料以政府資料開放平台所提供的 歷年國內主要觀光遊憩據點遊客人數月別統計 https://data.gov.tw/dataset/8116 進行資料視覺化練習。
+<h3>第十一周 NumPy 運用</h3>
+11-matplotlib.ipynb <br>
+透過學習Matplotlib基本繪圖強化資料視覺化基礎
+11-Numpy.ipynb <br>
+NumPy為Python中最重要的數學運算，學習如何透過NumPy操作多維度陣列。
